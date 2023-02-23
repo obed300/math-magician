@@ -1,6 +1,7 @@
 body {
   display: flex;
   justify-content: center;
+  font-weight: bolder;
 }
 
 .main-wrapper {
