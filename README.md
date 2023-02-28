@@ -26,7 +26,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 My Meals <a name="about-project"></a>
+# 📖 Math Magician <a name="about-project"></a>
 
 **Math Magician** is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
 Make simple calculations and also Read a random math-related quote.
