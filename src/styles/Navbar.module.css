@@ -1,0 +1,29 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  background-color: rgb(255, 166, 0);
+}
+
+.activeLink {
+  font-weight: bold;
+}
+
+.nav a {
+  color: #333;
+  text-decoration: none;
+  margin: 0 1rem;
+  padding-bottom: 0.25rem;
+  border-bottom: 2px solid transparent;
+  transition: border-bottom-color 0.2s ease-in-out;
+  font-weight: bolder;
+}
+
+.nav a:hover {
+  border-bottom-color: #333;
+}
+
+nav h1 {
+  font-size: 40px;
+}

@@ -7,10 +7,11 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 My Meals ](#-my-meals-)
+- [📖 My Page ](#-my-page-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
   - [💻 Getting Started ](#-getting-started-)
+    - [Key Features ](#key-features-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
     - [Install](#install)
@@ -27,6 +28,7 @@
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 Math Magician <a name="about-project"></a>
+
 
 **Math Magician** is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
 Make simple calculations and also Read a random math-related quote.
@@ -61,11 +63,21 @@ Make simple calculations and also Read a random math-related quote.
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-To get a local copy up and running, follow these steps:
-- Get a copy of the project
-- Come into the project directory
-- Open the project using code editor of your choice
-- Open your prefered browser
+To get the local copy up and running, follow these steps.
+
+-Clone the Repo or Download the Zip file or
+https://github.com/obed300/math-magician.git
+
+-cd /math-magician
+
+-Open it with the live server
+
+
+### Key Features <a name="key-features"></a>
+- **[react]**
+- **[ES6 features]**
+- **[notably modules]**
+- **[html/css]**
 
 ### Prerequisites
 
@@ -80,13 +92,14 @@ In order to run this project:
 Clone this repository to your desired folder:
 
 ```sh
-  cd my-folder
+  cd math-magician
   git clone https://github.com/obed300/math-magicians.git
 ```
 
+
 ### Install
 
-Install all the dependencys required for the website, by using the command below
+Install all the dependencies required for the website, by using the command below
 
 ```sh
   cd math-magician
