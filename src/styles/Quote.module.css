@@ -1,0 +1,9 @@
+.qoute {
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  text-align: center;
+  height: auto;
+  margin-top: 200px;
+  font-weight: bolder;
+}
