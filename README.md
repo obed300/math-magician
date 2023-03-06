@@ -9,9 +9,10 @@
 - [📗 Table of Contents](#-table-of-contents)
 - [📖 My Page ](#-my-page-)
   - [🛠 Built With ](#-built-with-)
+    - [Key Features ](#key-features-)
+    - [🚀 Live Demo](#live-demo)
     - [Tech Stack ](#tech-stack-)
   - [💻 Getting Started ](#-getting-started-)
-    - [Key Features ](#key-features-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
     - [Install](#install)
@@ -35,7 +36,17 @@ Make simple calculations and also Read a random math-related quote.
 
 ## 🛠 Built With <a name="built-with"></a>
 
+### Key Features <a name="key-features"></a>
+- **[react]**
+- **[ES6 features]**
+- **[notably modules]**
+- **[html/css]**
+
 ### Tech Stack <a name="tech-stack"></a>
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo](https://obed-math-magicians.onrender.com)
 
 <details>
   <summary>Languages</summary>
@@ -71,13 +82,6 @@ https://github.com/obed300/math-magician.git
 -cd /math-magician
 
 -Open it with the live server
-
-
-### Key Features <a name="key-features"></a>
-- **[react]**
-- **[ES6 features]**
-- **[notably modules]**
-- **[html/css]**
 
 ### Prerequisites
 
