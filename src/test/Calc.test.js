@@ -12,7 +12,6 @@ describe('operate', () => {
       total: null,
       next: null,
       operation: null,
-
     });
   });
   test('clear all when AC is clicked', () => {
@@ -24,14 +23,21 @@ describe('operate', () => {
     const result = calculate(obj, '0');
     expect(result).toEqual({});
   });
-
-  test('clear all when AC is clicked', () => {
+  test('test calculator for the buttons functionality', () => {
     const obj = {
-      total: '5',
-      next: '0',
+      total: '1',
+      next: '2',
       operation: '+',
     };
-    const result = calculate(obj, '0');
-    expect(result).toEqual({});
+    expect(calculate(obj, '+/-')).toEqual({
+      total: '1',
+      next: '-2',
+      operation: '+',
+    });
+    expect(calculate(obj, '=')).toEqual({
+      total: '3',
+      next: null,
+      operation: null,
+    });
   });
 });
