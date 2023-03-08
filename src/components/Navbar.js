@@ -10,7 +10,6 @@ function Navbar() {
       <NavLink to="/Calculator" activeClassName={styles.activeLink}>Calculator</NavLink>
       <NavLink to="/Quote" activeClassName={styles.activeLink}>Quote</NavLink>
     </nav>
-
   );
 }
 

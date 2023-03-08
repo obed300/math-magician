@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer component should render correctly and match the saved snapshot 1`] = `
+<footer
+  className="footer"
+>
+  © 2023 All rights reserved. Math Magicians. Privacy Policy | Terms of Use | Contact Us
+</footer>
+`;
