@@ -134,11 +134,12 @@ If you like to deploy the website to the github pages please follow the link her
 ## 👥 Authors <a name="authors"></a>
 
 👤 **Obed Bamfo**
-
 - GitHub: [obed300](https://github.com/obed300)
-  👤 **Yemisirach Tamirat**
+
+👤 **Yemisirach Tamirat**
 - GitHub: [@yemisrach](https://github.com/Yemisirach)
 - LinkedIn: [@Yemisirach](https://www.linkedin.com/in/yemisirach)
+
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
