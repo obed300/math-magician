@@ -29,7 +29,6 @@
 
 # 📖 Math Magician <a name="about-project"></a>
 
-
 **Math Magician** is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
 Make simple calculations and also Read a random math-related quote.
 
@@ -58,7 +57,6 @@ Make simple calculations and also Read a random math-related quote.
   </ul>
 </details>
 
-
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -72,8 +70,8 @@ https://github.com/obed300/math-magician.git
 
 -Open it with the live server
 
-
 ### Key Features <a name="key-features"></a>
+
 - **[react]**
 - **[ES6 features]**
 - **[notably modules]**
@@ -82,6 +80,7 @@ https://github.com/obed300/math-magician.git
 ### Prerequisites
 
 In order to run this project:
+
 - You need a GitHub account.
 - You need to have a Git client installed on your computer.
 - You need to have a copy of the HTML CSS website codebase on your computer.
@@ -95,7 +94,6 @@ Clone this repository to your desired folder:
   cd math-magician
   git clone https://github.com/obed300/math-magicians.git
 ```
-
 
 ### Install
 
@@ -122,9 +120,11 @@ If you like to deploy the website to the github pages please follow the link her
 ## 👥 Authors <a name="authors"></a>
 
 👤 **Obed Bamfo**
+
 - GitHub: [obed300](https://github.com/obed300)
-
-
+  👤 **Yemisirach Tamirat**
+- GitHub: [@yemisrach](https://github.com/Yemisirach)
+- LinkedIn: [@Yemisirach](https://www.linkedin.com/in/yemisirach)
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
@@ -152,6 +152,7 @@ Give a ⭐️ if you like this project!
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank:
+
 - [Microverse](www.microverse.com)
 - [API service](https://www.themealdb.com/api.php)
 
