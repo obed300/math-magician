@@ -45,7 +45,7 @@ Make simple calculations and also Read a random math-related quote.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo](https://obed-math-magicians.onrender.com)
+- [Live Demo](https://math-magicians-obed.netlify.app)
 
 <details>
   <summary>Languages</summary>
