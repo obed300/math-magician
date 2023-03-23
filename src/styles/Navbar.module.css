@@ -4,6 +4,7 @@
   align-items: center;
   padding: 1rem;
   background-color: rgb(255, 166, 0);
+  height: 35px;
 }
 
 .activeLink {
